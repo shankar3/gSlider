@@ -1,0 +1,23 @@
+{
+  "name": "gslider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shankar3/gSlider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shankar3/gSlider/issues"
+  },
+  "homepage": "https://github.com/shankar3/gSlider#readme",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^1.11.3"
+  }
+}
