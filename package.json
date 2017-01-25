@@ -18,6 +18,9 @@
   "homepage": "https://github.com/shankar3/gSlider#readme",
   "devDependencies": {
     "bootstrap": "^3.3.7",
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-uglify": "^2.0.0",
     "jquery": "^1.11.3"
   }
 }
